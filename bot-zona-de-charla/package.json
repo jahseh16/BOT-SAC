@@ -1,0 +1,20 @@
+{
+  "name": "bot-zona-de-charla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "libsignal-node": "^2.0.1",
+    "pino": "^10.3.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
