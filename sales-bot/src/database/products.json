@@ -1,0 +1,26 @@
+[
+    {
+        "id": "p1",
+        "name": "Smartphone X",
+        "price": 799,
+        "description": "Pantalla OLED 6.7\", 256GB, Triple cámara 48MP."
+    },
+    {
+        "id": "p2",
+        "name": "Laptop Pro 14",
+        "price": 1299,
+        "description": "Chip M2, 16GB RAM, 512GB SSD. Color Gris Espacial."
+    },
+    {
+        "id": "p3",
+        "name": "Auriculares Wireless",
+        "price": 199,
+        "description": "Cancelación activa de ruido, 30h de batería."
+    },
+    {
+        "id": "p4",
+        "name": "Smartwatch S7",
+        "price": 349,
+        "description": "Monitoreo de salud, resistente al agua, GPS integrado."
+    }
+]
