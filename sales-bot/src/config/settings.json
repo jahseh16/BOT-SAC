@@ -1,0 +1,9 @@
+{
+    "businessName": "Tienda Virtual Pro",
+    "advisorNumber": "5491112345678",
+    "currency": "USD",
+    "welcomeMessage": "👋 ¡Hola! Bienvenido a *Tienda Virtual Pro*. ¿En qué podemos ayudarte hoy?",
+    "advisorMessage": "👨‍💼 Un asesor se pondrá en contacto contigo pronto. Si es urgente, puedes llamar al +54 9 11 1234 5678.",
+    "orderConfirmation": "✅ ¡Gracias por tu pedido! Nos pondremos en contacto para coordinar la entrega.",
+    "menuText": "Selecciona una opción del menú:"
+}
